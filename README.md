@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=nish4d&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nish4d&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nish4d&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<a href="https://app.daily.dev/nish4d"><img src="https://github.com/rebelchris/rebelchris/blob/main/devcard.svg" width="400" alt="Nishad Islam's Dev Card"/></a>
+<a href="https://app.daily.dev/nish4d"><img src="https://api.daily.dev/devcards/57be64bc227549ae8e501513aeaa3fea.png?r=c0y" width="400" alt="Nishad Islam's Dev Card"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
