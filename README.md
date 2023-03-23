@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 🔭 I’m currently learning<br>- 💬 Ask me about ...<br>-
+- 🔭 I’m currently learning
 
 
 ## 🌐 Socials:
